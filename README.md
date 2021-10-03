@@ -8,6 +8,8 @@
 
 Made with Pycharm using Numpy, P5 (Processing implementation for Python), and matplotlib
 
+![alt text](https://github.com/[OsteSTeam]/[palca]/blob/[main]/photo_2021-10-03_20-49-28.jpg?raw=true)
+
 # How to use the app
 
 Save an OBJ model, to get correct magnitude values the model coordinates must be in kilometers. To prevent lagging, make sure the model has less than 400 faces. To be rendered correctly, all faces must be triangulated.
