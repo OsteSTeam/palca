@@ -20,7 +20,7 @@ class AsteroidRenderer:
         self.vectorOlega = self.emissionDirRaw * (1 / vectorLength3D(self.emissionDirRaw))
         self.scale = 200
         self.rotationMatrix = np.array([])
-        self.rotationAxis = np.array([0, 0, 1], float)
+        self.rotationAxis = np.array([0, 1, 0], float)
         self.angle: float = 0
         self.frames: int = 30  # number of frames used for curve scan
         self.rendered = 0  # whether the object was rendered
