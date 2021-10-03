@@ -44,7 +44,7 @@ def setup():
     ol.loadObj(PathToFile)
 
 def toMagnitude(efSurf):
-    return (-2.5*log(rend.solarLuminosity*1.679*efSurf,10)+17.5)
+    return (-2.5*log(rend.solarLuminosity*efSurf/((rend.sunAstDistance*rend.astCamDistance)**2),10)+16.9)
 
 
 def draw():
