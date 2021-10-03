@@ -8,7 +8,10 @@
 
 Made with Pycharm using Numpy, P5 (Processing implementation for Python), and matplotlib
 
-![alt text](https://github.com/OsteSTeam/palca/blob/main/photo_2021-10-03_20-49-28.jpg?raw=true)
+![alt text](https://github.com/OsteSTeam/palca/blob/main/image_2021-10-03_23-57-49.png?raw=true)
+
+![alt text](https://github.com/OsteSTeam/palca/blob/main/image_2021-10-03_23-57-35.png?raw=true)
+
 
 # How to use the app
 
